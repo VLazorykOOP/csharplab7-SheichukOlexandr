@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\",
+  "WorkspaceRootPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|d:\\2course\\csharplabs\\csharplab7\\csharplab7-sheichukolexandr-master\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|d:\\2course\\csharplabs\\csharplab7\\csharplab7-sheichukolexandr\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|d:\\2course\\csharplabs\\csharplab7\\csharplab7-sheichukolexandr-master\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|d:\\2course\\csharplabs\\csharplab7\\csharplab7-sheichukolexandr-master\\task1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|d:\\2course\\csharplabs\\csharplab7\\csharplab7-sheichukolexandr-master\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|d:\\2course\\csharplabs\\csharplab7\\csharplab7-sheichukolexandr-master\\task1\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{A7A61EAE-1ED6-41DD-8002-B93F4714AAA1}|Task1.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.resx",
-              "RelativeDocumentMoniker": "Form1.resx",
-              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.resx",
-              "RelativeToolTip": "Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-30T12:53:17.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.Designer.cs",
+              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T12:53:13.963Z",
               "EditorCaption": ""
@@ -61,39 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.cs",
+              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.cs",
+              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAAwBoAAAAoAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwBIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T12:52:59.246Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:52:46.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:52:32.471Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             }
           ]
         }

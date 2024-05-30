@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task3\\Task3.csproj",
+      "projectUniqueName": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task3\\Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task3\\Task3.csproj",
+      "projectPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task3\\Task3.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task3\\obj\\",
+      "outputPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

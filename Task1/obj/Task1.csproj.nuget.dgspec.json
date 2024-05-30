@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Task1.csproj": {}
+    "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Task1.csproj": {
+    "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Task1.csproj",
+        "projectUniqueName": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\Task1.csproj",
+        "projectPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr-master\\Task1\\obj\\",
+        "outputPath": "D:\\2course\\CSharpLabs\\csharplab7\\csharplab7-SheichukOlexandr\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace Task2
+namespace Task3
 {
     public partial class Form1 : Form
     {
@@ -34,6 +34,18 @@ namespace Task2
             }
         }
 
+        private void BtnSaveImage_Click(object sender, EventArgs e)
+        {
+            if (originalImage != null)
+            {
+                if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    Bitmap rotatedImage = RotateImage(originalImage, currentAngle, 700, 700);
+                    rotatedImage.Save(saveFileDialog1.FileName);
+                }
+            }
+        }
+
         private void PictureBox1_Paint(object sender, PaintEventArgs e)
         {
             if (originalImage != null)
@@ -49,6 +61,20 @@ namespace Task2
                 // Малювання зображення
                 g.DrawImage(originalImage, new Point(0, 0));
             }
+        }
+
+        private Bitmap RotateImage(Bitmap bitmap, float angle, int width, int height)
+        {
+            Bitmap rotatedBitmap = new Bitmap(width, height);
+            using (Graphics g = Graphics.FromImage(rotatedBitmap))
+            {
+                g.TranslateTransform((float)width / 2, (float)height / 2);
+                g.RotateTransform(angle);
+                g.TranslateTransform(-(float)bitmap.Width / 2, -(float)bitmap.Height / 2);
+                g.InterpolationMode = InterpolationMode.HighQualityBicubic;
+                g.DrawImage(bitmap, new Rectangle(0, 0, bitmap.Width, bitmap.Height));
+            }
+            return rotatedBitmap;
         }
     }
 }
